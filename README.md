@@ -1,23 +1,3 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
+### Replaces the usually flat second layer of player skins with a 3d modeled version. Will automatically switch to the vanilla 2d rendering when players are further away than 12 blocks in order to increase the framerate. Also supports transparent parts on things like glasses!
 
-### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+### Since this mod is purely visual and fully clientside, it doesn't have to be installed on servers and works everywhere!
